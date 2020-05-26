@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseAdsModelStoreContainer" CdmEntityContainer="DatabaseAdsEntities">
+    <EntitySetMapping Name="Credits1">
+      <EntityTypeMapping TypeName="DatabaseAdsModel.Credits">
+        <MappingFragment StoreEntitySet="Credits">
+          <ScalarProperty Name="IsImplemented" ColumnName="IsImplemented" />
+          <ScalarProperty Name="TargetDate" ColumnName="TargetDate" />
+          <ScalarProperty Name="Sum" ColumnName="Sum" />
+          <ScalarProperty Name="CreditKod" ColumnName="CreditKod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CreditsForGraphicArtists">
+      <EntityTypeMapping TypeName="DatabaseAdsModel.CreditsForGraphicArtist">
+        <MappingFragment StoreEntitySet="CreditsForGraphicArtist">
+          <ScalarProperty Name="GraphicArtistTz" ColumnName="GraphicArtistTz" />
+          <ScalarProperty Name="CreditKod" ColumnName="CreditKod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GraphicArtists">
+      <EntityTypeMapping TypeName="DatabaseAdsModel.GraphicArtist">
+        <MappingFragment StoreEntitySet="GraphicArtist">
+          <ScalarProperty Name="SumOfRights" ColumnName="SumOfRights" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="GraphicArtistTz" ColumnName="GraphicArtistTz" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders1">
+      <EntityTypeMapping TypeName="DatabaseAdsModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="Advertisement" ColumnName="Advertisement" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="TemplateKod" ColumnName="TemplateKod" />
+          <ScalarProperty Name="ClientTz" ColumnName="ClientTz" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Templates1">
+      <EntityTypeMapping TypeName="DatabaseAdsModel.Templates">
+        <MappingFragment StoreEntitySet="Templates">
+          <ScalarProperty Name="PageTemplate" ColumnName="PageTemplate" />
+          <ScalarProperty Name="HeightTemplate" ColumnName="HeightTemplate" />
+          <ScalarProperty Name="WidthTemplate" ColumnName="WidthTemplate" />
+          <ScalarProperty Name="RightPlace" ColumnName="RightPlace" />
+          <ScalarProperty Name="TopPlace" ColumnName="TopPlace" />
+          <ScalarProperty Name="TemplateKod" ColumnName="TemplateKod" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

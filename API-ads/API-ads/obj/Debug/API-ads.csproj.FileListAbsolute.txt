@@ -1,0 +1,468 @@
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\API-ads.dll.config
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\API-ads.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\API-ads.pdb
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csc.exe
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csc.exe.config
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csc.rsp
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csi.exe
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csi.exe.config
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\csi.rsp
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.AppContext.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Collections.Immutable.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Console.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.IO.Compression.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Reflection.Metadata.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.AccessControl.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Claims.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.ValueTuple.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\vbc.exe
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\vbc.exe.config
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\vbc.rsp
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe.config
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Antlr3.Runtime.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Microsoft.Web.Infrastructure.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Newtonsoft.Json.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Net.Http.Formatting.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Helpers.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Http.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Http.WebHost.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Mvc.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Optimization.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Razor.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\WebGrease.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Newtonsoft.Json.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Net.Http.Formatting.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Helpers.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Http.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Http.WebHost.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Mvc.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Optimization.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.Razor.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Antlr3.Runtime.pdb
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\obj\Debug\API-ads.csprojAssemblyReference.cache
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\obj\Debug\API-ads.csproj.CoreCompileInputs.cache
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\obj\Debug\API-ads.csproj.CopyComplete
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\obj\Debug\API-ads.dll
+Y:\angular\0rachely krauss\PROJECT\project\API-ads\API-ads\obj\Debug\API-ads.pdb
+F:\project\API-ads\API-ads\bin\API-ads.dll.config
+F:\project\API-ads\API-ads\bin\API-ads.dll
+F:\project\API-ads\API-ads\bin\API-ads.pdb
+F:\project\API-ads\API-ads\bin\roslyn\csc.exe
+F:\project\API-ads\API-ads\bin\roslyn\csc.exe.config
+F:\project\API-ads\API-ads\bin\roslyn\csc.rsp
+F:\project\API-ads\API-ads\bin\roslyn\csi.exe
+F:\project\API-ads\API-ads\bin\roslyn\csi.exe.config
+F:\project\API-ads\API-ads\bin\roslyn\csi.rsp
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.Managed.Core.targets
+F:\project\API-ads\API-ads\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\project\API-ads\API-ads\bin\roslyn\System.AppContext.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Collections.Immutable.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Console.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.IO.Compression.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Reflection.Metadata.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.AccessControl.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Claims.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Security.Principal.Windows.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.ValueTuple.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Xml.XmlDocument.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.dll
+F:\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\project\API-ads\API-ads\bin\roslyn\vbc.exe
+F:\project\API-ads\API-ads\bin\roslyn\vbc.exe.config
+F:\project\API-ads\API-ads\bin\roslyn\vbc.rsp
+F:\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe
+F:\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe.config
+F:\project\API-ads\API-ads\bin\Antlr3.Runtime.dll
+F:\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\project\API-ads\API-ads\bin\Microsoft.Web.Infrastructure.dll
+F:\project\API-ads\API-ads\bin\Newtonsoft.Json.dll
+F:\project\API-ads\API-ads\bin\System.Net.Http.Formatting.dll
+F:\project\API-ads\API-ads\bin\System.Web.Helpers.dll
+F:\project\API-ads\API-ads\bin\System.Web.Http.dll
+F:\project\API-ads\API-ads\bin\System.Web.Http.WebHost.dll
+F:\project\API-ads\API-ads\bin\System.Web.Mvc.dll
+F:\project\API-ads\API-ads\bin\System.Web.Optimization.dll
+F:\project\API-ads\API-ads\bin\System.Web.Razor.dll
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.dll
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.dll
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.dll
+F:\project\API-ads\API-ads\bin\WebGrease.dll
+F:\project\API-ads\API-ads\bin\Newtonsoft.Json.xml
+F:\project\API-ads\API-ads\bin\System.Net.Http.Formatting.xml
+F:\project\API-ads\API-ads\bin\System.Web.Helpers.xml
+F:\project\API-ads\API-ads\bin\System.Web.Http.xml
+F:\project\API-ads\API-ads\bin\System.Web.Http.WebHost.xml
+F:\project\API-ads\API-ads\bin\System.Web.Mvc.xml
+F:\project\API-ads\API-ads\bin\System.Web.Optimization.xml
+F:\project\API-ads\API-ads\bin\System.Web.Razor.xml
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.xml
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.xml
+F:\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.xml
+F:\project\API-ads\API-ads\bin\Antlr3.Runtime.pdb
+F:\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\project\API-ads\API-ads\obj\Debug\API-ads.csprojAssemblyReference.cache
+F:\project\API-ads\API-ads\obj\Debug\API-ads.csproj.CoreCompileInputs.cache
+F:\project\API-ads\API-ads\obj\Debug\API-ads.csproj.CopyComplete
+F:\project\API-ads\API-ads\obj\Debug\API-ads.dll
+F:\project\API-ads\API-ads\obj\Debug\API-ads.pdb
+F:\project\API-ads\API-ads\bin\DatabaseAds.mdf
+F:\project\API-ads\API-ads\bin\DatabaseAds_log.ldf
+F:\project\API-ads\API-ads\bin\BLL.dll
+F:\project\API-ads\API-ads\bin\DTO.dll
+F:\project\API-ads\API-ads\bin\System.Web.Cors.dll
+F:\project\API-ads\API-ads\bin\System.Web.Http.Cors.dll
+F:\project\API-ads\API-ads\bin\DAL.dll
+F:\project\API-ads\API-ads\bin\EntityFramework.dll
+F:\project\API-ads\API-ads\bin\BLL.pdb
+F:\project\API-ads\API-ads\bin\DTO.pdb
+F:\project\API-ads\API-ads\bin\System.Web.Http.Cors.xml
+F:\project\API-ads\API-ads\bin\DAL.pdb
+F:\project\API-ads\API-ads\bin\DAL.dll.config
+F:\project\API-ads\API-ads\bin\EntityFramework.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DatabaseAds.mdf
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DatabaseAds_log.ldf
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\API-ads.dll.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\API-ads.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\API-ads.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csc.exe
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csc.exe.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csc.rsp
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csi.exe
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csi.exe.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\csi.rsp
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.AppContext.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Collections.Immutable.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Console.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.IO.Compression.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.IO.Pipes.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Reflection.Metadata.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.AccessControl.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Claims.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.ValueTuple.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\vbc.exe
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\vbc.exe.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\vbc.rsp
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Antlr3.Runtime.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\BLL.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DTO.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Microsoft.Web.Infrastructure.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Newtonsoft.Json.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Net.Http.Formatting.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Cors.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Helpers.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.Cors.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.WebHost.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Mvc.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Optimization.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Razor.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\WebGrease.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DAL.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\EntityFramework.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\BLL.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DTO.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Net.Http.Formatting.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.Cors.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Newtonsoft.Json.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Helpers.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Http.WebHost.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Mvc.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Optimization.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.Razor.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.Deployment.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\System.Web.WebPages.Razor.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Antlr3.Runtime.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DAL.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\DAL.dll.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\bin\EntityFramework.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\obj\Debug\API-ads.csprojResolveAssemblyReference.cache
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\obj\Debug\API-ads.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\API-ads\obj\Debug\API-ads.pdb
+E:\project1\API-ads\API-ads\bin\DatabaseAds.mdf
+E:\project1\API-ads\API-ads\bin\DatabaseAds_log.ldf
+E:\project1\API-ads\API-ads\bin\API-ads.dll.config
+E:\project1\API-ads\API-ads\bin\API-ads.dll
+E:\project1\API-ads\API-ads\bin\API-ads.pdb
+E:\project1\API-ads\API-ads\bin\roslyn\csc.exe
+E:\project1\API-ads\API-ads\bin\roslyn\csc.exe.config
+E:\project1\API-ads\API-ads\bin\roslyn\csc.rsp
+E:\project1\API-ads\API-ads\bin\roslyn\csi.exe
+E:\project1\API-ads\API-ads\bin\roslyn\csi.exe.config
+E:\project1\API-ads\API-ads\bin\roslyn\csi.rsp
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.Managed.Core.targets
+E:\project1\API-ads\API-ads\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\project1\API-ads\API-ads\bin\roslyn\System.AppContext.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Collections.Immutable.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Console.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.IO.Compression.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.IO.Pipes.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Reflection.Metadata.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.AccessControl.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Claims.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Security.Principal.Windows.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.ValueTuple.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Xml.XmlDocument.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Xml.XPath.dll
+E:\project1\API-ads\API-ads\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\project1\API-ads\API-ads\bin\roslyn\vbc.exe
+E:\project1\API-ads\API-ads\bin\roslyn\vbc.exe.config
+E:\project1\API-ads\API-ads\bin\roslyn\vbc.rsp
+E:\project1\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe
+E:\project1\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe.config
+E:\project1\API-ads\API-ads\bin\Antlr3.Runtime.dll
+E:\project1\API-ads\API-ads\bin\BLL.dll
+E:\project1\API-ads\API-ads\bin\DAL.dll
+E:\project1\API-ads\API-ads\bin\DTO.dll
+E:\project1\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\project1\API-ads\API-ads\bin\Microsoft.Web.Infrastructure.dll
+E:\project1\API-ads\API-ads\bin\Newtonsoft.Json.dll
+E:\project1\API-ads\API-ads\bin\System.Net.Http.Formatting.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Cors.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Helpers.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Http.Cors.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Http.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Http.WebHost.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Mvc.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Optimization.dll
+E:\project1\API-ads\API-ads\bin\System.Web.Razor.dll
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.Deployment.dll
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.dll
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.Razor.dll
+E:\project1\API-ads\API-ads\bin\WebGrease.dll
+E:\project1\API-ads\API-ads\bin\EntityFramework.dll
+E:\project1\API-ads\API-ads\bin\BLL.pdb
+E:\project1\API-ads\API-ads\bin\DAL.pdb
+E:\project1\API-ads\API-ads\bin\DAL.dll.config
+E:\project1\API-ads\API-ads\bin\DTO.pdb
+E:\project1\API-ads\API-ads\bin\System.Net.Http.Formatting.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Http.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Http.Cors.xml
+E:\project1\API-ads\API-ads\bin\Newtonsoft.Json.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Helpers.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Http.WebHost.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Mvc.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Optimization.xml
+E:\project1\API-ads\API-ads\bin\System.Web.Razor.xml
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.xml
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.Deployment.xml
+E:\project1\API-ads\API-ads\bin\System.Web.WebPages.Razor.xml
+E:\project1\API-ads\API-ads\bin\Antlr3.Runtime.pdb
+E:\project1\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\project1\API-ads\API-ads\bin\EntityFramework.xml
+E:\project1\API-ads\API-ads\obj\Debug\API-ads.csprojAssemblyReference.cache
+E:\project1\API-ads\API-ads\obj\Debug\API-ads.csproj.CoreCompileInputs.cache
+E:\project1\API-ads\API-ads\obj\Debug\API-ads.csproj.CopyComplete
+E:\project1\API-ads\API-ads\obj\Debug\API-ads.dll
+E:\project1\API-ads\API-ads\obj\Debug\API-ads.pdb
+D:\project1\API-ads\API-ads\obj\Debug\API-ads.csprojAssemblyReference.cache
+D:\project1\API-ads\API-ads\obj\Debug\API-ads.csproj.CoreCompileInputs.cache
+D:\project1\API-ads\API-ads\obj\Debug\API-ads.dll
+D:\project1\API-ads\API-ads\obj\Debug\API-ads.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DatabaseAds.mdf
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DatabaseAds_log.ldf
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\API-ads.dll.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\API-ads.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\API-ads.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csc.exe
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csi.exe
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\BLL.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DAL.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DTO.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Cors.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.Cors.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\WebGrease.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\EntityFramework.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\BLL.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DAL.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DAL.dll.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\DTO.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.Cors.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\bin\EntityFramework.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\obj\Debug\API-ads.csprojAssemblyReference.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\obj\Debug\API-ads.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\obj\Debug\API-ads.csproj.CopyComplete
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\obj\Debug\API-ads.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\API-ads\obj\Debug\API-ads.pdb

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DatabaseAdsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Credits">
+          <Key>
+            <PropertyRef Name="CreditKod" />
+          </Key>
+          <Property Name="CreditKod" Type="int" Nullable="false" />
+          <Property Name="Sum" Type="int" Nullable="false" />
+          <Property Name="TargetDate" Type="datetime" Nullable="false" />
+          <Property Name="IsImplemented" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CreditsForGraphicArtist">
+          <Key>
+            <PropertyRef Name="CreditKod" />
+          </Key>
+          <Property Name="CreditKod" Type="int" Nullable="false" />
+          <Property Name="GraphicArtistTz" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="GraphicArtist">
+          <Key>
+            <PropertyRef Name="GraphicArtistTz" />
+          </Key>
+          <Property Name="GraphicArtistTz" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SumOfRights" Type="int" />
+        </EntityType>
+        <EntityType Name="Orders">
+          <Key>
+            <PropertyRef Name="ClientTz" />
+          </Key>
+          <Property Name="ClientTz" Type="int" Nullable="false" />
+          <Property Name="TemplateKod" Type="int" Nullable="false" />
+          <Property Name="StartDate" Type="datetime" Nullable="false" />
+          <Property Name="EndDate" Type="datetime" Nullable="false" />
+          <Property Name="Advertisement" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Templates">
+          <Key>
+            <PropertyRef Name="TemplateKod" />
+          </Key>
+          <Property Name="TemplateKod" Type="int" Nullable="false" />
+          <Property Name="TopPlace" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="RightPlace" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="WidthTemplate" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="HeightTemplate" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="PageTemplate" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="DatabaseAdsModelStoreContainer">
+          <EntitySet Name="Credits" EntityType="Self.Credits" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CreditsForGraphicArtist" EntityType="Self.CreditsForGraphicArtist" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="GraphicArtist" EntityType="Self.GraphicArtist" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Templates" EntityType="Self.Templates" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DatabaseAdsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="DatabaseAdsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Credits1" EntityType="DatabaseAdsModel.Credits" />
+          <EntitySet Name="CreditsForGraphicArtists" EntityType="DatabaseAdsModel.CreditsForGraphicArtist" />
+          <EntitySet Name="Orders1" EntityType="DatabaseAdsModel.Orders" />
+          <EntitySet Name="Templates1" EntityType="DatabaseAdsModel.Templates" />
+          <EntitySet Name="GraphicArtists" EntityType="DatabaseAdsModel.GraphicArtist" />
+        </EntityContainer>
+        <ComplexType Name="ComplexType1" />
+        <ComplexType Name="ComplexType2" />
+        <ComplexType Name="ComplexType3" />
+        <EntityType Name="Credits">
+          <Key>
+            <PropertyRef Name="CreditKod" />
+          </Key>
+          <Property Name="CreditKod" Type="Int32" Nullable="false" />
+          <Property Name="Sum" Type="Int32" Nullable="false" />
+          <Property Name="TargetDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="IsImplemented" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CreditsForGraphicArtist">
+          <Key>
+            <PropertyRef Name="CreditKod" />
+          </Key>
+          <Property Name="CreditKod" Type="Int32" Nullable="false" />
+          <Property Name="GraphicArtistTz" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Orders">
+          <Key>
+            <PropertyRef Name="ClientTz" />
+          </Key>
+          <Property Name="ClientTz" Type="Int32" Nullable="false" />
+          <Property Name="TemplateKod" Type="Int32" Nullable="false" />
+          <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Advertisement" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Templates">
+          <Key>
+            <PropertyRef Name="TemplateKod" />
+          </Key>
+          <Property Name="TemplateKod" Type="Int32" Nullable="false" />
+          <Property Name="TopPlace" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="RightPlace" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="WidthTemplate" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="HeightTemplate" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="PageTemplate" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="GraphicArtist">
+          <Key>
+            <PropertyRef Name="GraphicArtistTz" />
+          </Key>
+          <Property Name="GraphicArtistTz" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Email" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SumOfRights" Type="Int32" />
+        </EntityType>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DatabaseAdsModelStoreContainer" CdmEntityContainer="DatabaseAdsEntities">
+          <EntitySetMapping Name="Credits1">
+            <EntityTypeMapping TypeName="DatabaseAdsModel.Credits">
+              <MappingFragment StoreEntitySet="Credits">
+                <ScalarProperty Name="IsImplemented" ColumnName="IsImplemented" />
+                <ScalarProperty Name="TargetDate" ColumnName="TargetDate" />
+                <ScalarProperty Name="Sum" ColumnName="Sum" />
+                <ScalarProperty Name="CreditKod" ColumnName="CreditKod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CreditsForGraphicArtists">
+            <EntityTypeMapping TypeName="DatabaseAdsModel.CreditsForGraphicArtist">
+              <MappingFragment StoreEntitySet="CreditsForGraphicArtist">
+                <ScalarProperty Name="GraphicArtistTz" ColumnName="GraphicArtistTz" />
+                <ScalarProperty Name="CreditKod" ColumnName="CreditKod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Orders1">
+            <EntityTypeMapping TypeName="DatabaseAdsModel.Orders">
+              <MappingFragment StoreEntitySet="Orders">
+                <ScalarProperty Name="Advertisement" ColumnName="Advertisement" />
+                <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+                <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+                <ScalarProperty Name="TemplateKod" ColumnName="TemplateKod" />
+                <ScalarProperty Name="ClientTz" ColumnName="ClientTz" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Templates1">
+            <EntityTypeMapping TypeName="DatabaseAdsModel.Templates">
+              <MappingFragment StoreEntitySet="Templates">
+                <ScalarProperty Name="PageTemplate" ColumnName="PageTemplate" />
+                <ScalarProperty Name="HeightTemplate" ColumnName="HeightTemplate" />
+                <ScalarProperty Name="WidthTemplate" ColumnName="WidthTemplate" />
+                <ScalarProperty Name="RightPlace" ColumnName="RightPlace" />
+                <ScalarProperty Name="TopPlace" ColumnName="TopPlace" />
+                <ScalarProperty Name="TemplateKod" ColumnName="TemplateKod" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="GraphicArtists">
+            <EntityTypeMapping TypeName="DatabaseAdsModel.GraphicArtist">
+              <MappingFragment StoreEntitySet="GraphicArtist">
+                <ScalarProperty Name="SumOfRights" ColumnName="SumOfRights" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="GraphicArtistTz" ColumnName="GraphicArtistTz" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

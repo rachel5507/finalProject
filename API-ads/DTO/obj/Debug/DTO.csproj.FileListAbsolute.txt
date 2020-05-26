@@ -1,0 +1,53 @@
+F:\project\API-ads\DTO\bin\Debug\DTO.dll
+F:\project\API-ads\DTO\bin\Debug\DTO.pdb
+F:\project\API-ads\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\project\API-ads\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\project\API-ads\DTO\obj\Debug\DTO.dll
+F:\project\API-ads\DTO\obj\Debug\DTO.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\DTO\bin\Debug\DTO.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\DTO\bin\Debug\DTO.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+Y:\תשפ\3\רחלי קראוס\project\API-ads\DTO\obj\Debug\DTO.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\DTO\obj\Debug\DTO.pdb
+E:\project1\API-ads\DTO\bin\Debug\DTO.dll
+E:\project1\API-ads\DTO\bin\Debug\DTO.pdb
+E:\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.dll
+E:\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.dll
+E:\project1\API-ads\DTO\bin\Debug\System.Web.Cors.dll
+E:\project1\API-ads\DTO\bin\Debug\System.Web.Http.dll
+E:\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.xml
+E:\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.xml
+E:\project1\API-ads\DTO\bin\Debug\System.Web.Http.xml
+E:\project1\API-ads\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\project1\API-ads\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\project1\API-ads\DTO\obj\Debug\DTO.csproj.CopyComplete
+E:\project1\API-ads\DTO\obj\Debug\DTO.dll
+E:\project1\API-ads\DTO\obj\Debug\DTO.pdb
+D:\project1\API-ads\DTO\bin\Debug\DTO.dll
+D:\project1\API-ads\DTO\bin\Debug\DTO.pdb
+D:\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.dll
+D:\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.dll
+D:\project1\API-ads\DTO\bin\Debug\System.Web.Cors.dll
+D:\project1\API-ads\DTO\bin\Debug\System.Web.Http.dll
+D:\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.xml
+D:\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.xml
+D:\project1\API-ads\DTO\bin\Debug\System.Web.Http.xml
+D:\project1\API-ads\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\project1\API-ads\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\project1\API-ads\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\project1\API-ads\DTO\obj\Debug\DTO.dll
+D:\project1\API-ads\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\System.Web.Cors.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\System.Web.Http.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\bin\Debug\System.Web.Http.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\obj\Debug\DTO.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\DTO\obj\Debug\DTO.pdb

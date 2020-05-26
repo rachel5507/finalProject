@@ -1,0 +1,80 @@
+F:\project\API-ads\BLL\bin\Debug\DatabaseAds.mdf
+F:\project\API-ads\BLL\bin\Debug\DatabaseAds_log.ldf
+F:\project\API-ads\BLL\bin\Debug\BLL.dll
+F:\project\API-ads\BLL\bin\Debug\BLL.pdb
+F:\project\API-ads\BLL\bin\Debug\DAL.dll
+F:\project\API-ads\BLL\bin\Debug\DTO.dll
+F:\project\API-ads\BLL\bin\Debug\EntityFramework.dll
+F:\project\API-ads\BLL\bin\Debug\DAL.pdb
+F:\project\API-ads\BLL\bin\Debug\DAL.dll.config
+F:\project\API-ads\BLL\bin\Debug\DTO.pdb
+F:\project\API-ads\BLL\bin\Debug\EntityFramework.xml
+F:\project\API-ads\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\project\API-ads\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\project\API-ads\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\project\API-ads\BLL\obj\Debug\BLL.dll
+F:\project\API-ads\BLL\obj\Debug\BLL.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DatabaseAds.mdf
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DatabaseAds_log.ldf
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\BLL.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\BLL.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DAL.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DTO.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\EntityFramework.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DAL.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DAL.dll.config
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\DTO.pdb
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\bin\Debug\EntityFramework.xml
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\obj\Debug\BLL.dll
+Y:\תשפ\3\רחלי קראוס\project\API-ads\BLL\obj\Debug\BLL.pdb
+E:\project1\API-ads\BLL\bin\Debug\DatabaseAds.mdf
+E:\project1\API-ads\BLL\bin\Debug\DatabaseAds_log.ldf
+E:\project1\API-ads\BLL\bin\Debug\BLL.dll
+E:\project1\API-ads\BLL\bin\Debug\BLL.pdb
+E:\project1\API-ads\BLL\bin\Debug\DAL.dll
+E:\project1\API-ads\BLL\bin\Debug\DTO.dll
+E:\project1\API-ads\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\project1\API-ads\BLL\bin\Debug\System.Net.Http.Formatting.dll
+E:\project1\API-ads\BLL\bin\Debug\System.Web.Cors.dll
+E:\project1\API-ads\BLL\bin\Debug\System.Web.Http.dll
+E:\project1\API-ads\BLL\bin\Debug\EntityFramework.dll
+E:\project1\API-ads\BLL\bin\Debug\DAL.pdb
+E:\project1\API-ads\BLL\bin\Debug\DAL.dll.config
+E:\project1\API-ads\BLL\bin\Debug\DTO.pdb
+E:\project1\API-ads\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\project1\API-ads\BLL\bin\Debug\System.Net.Http.Formatting.xml
+E:\project1\API-ads\BLL\bin\Debug\System.Web.Http.xml
+E:\project1\API-ads\BLL\bin\Debug\EntityFramework.xml
+E:\project1\API-ads\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\project1\API-ads\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\project1\API-ads\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\project1\API-ads\BLL\obj\Debug\BLL.dll
+E:\project1\API-ads\BLL\obj\Debug\BLL.pdb
+D:\project1\API-ads\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\project1\API-ads\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\project1\API-ads\BLL\obj\Debug\BLL.dll
+D:\project1\API-ads\BLL\obj\Debug\BLL.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DatabaseAds.mdf
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DatabaseAds_log.ldf
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\BLL.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DTO.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\System.Web.Cors.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\System.Web.Http.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\System.Web.Http.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\obj\Debug\BLL.dll
+C:\Users\User\Desktop\בית ספר חרום\project1\API-ads\BLL\obj\Debug\BLL.pdb
